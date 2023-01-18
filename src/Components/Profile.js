@@ -22,10 +22,10 @@ function Profile(){
                 Eager to obtain a challenging position that will expand my learning and build upon my developer skills.
                 </p>
                 <div className="centering">
-                <a  href="http://www.linkedin.com/in/"><i className="fa fa-lg fa-linkedin iconstyle"></i></a>
-                <a  href="http://twitter.com/"><i className="fa fa-lg fa-twitter iconstyle"></i></a>
-                <a  href="http://twitter.com/"><i className="fa fa-lg fa-github iconstyle"></i></a>
-                <a  href="http://twitter.com/"><i className="fa fa-lg fa-envelope iconstyle"></i></a>          
+                <a  href="https://www.linkedin.com/in/divyaakula28/"><i className="fa fa-lg fa-linkedin iconstyle"></i></a>
+                <a  href="https://twitter.com/DivyaAkula8"><i className="fa fa-lg fa-twitter iconstyle"></i></a>
+                <a  href="https://github.com/Divyaakula28/"><i className="fa fa-lg fa-github iconstyle"></i></a>
+                <a  href="mailto:divya2000akula@gmail.com"><i className="fa fa-lg fa-envelope iconstyle"></i></a>          
                 </div>
                 </div>
                 </div>
@@ -47,10 +47,10 @@ function Profile(){
                 <p><strong>Location</strong><br></br>Guntur,AndhraPradesh</p>
                 
                 <div >
-                <a className="btn btn-xs btn-social-icon btn-linkedin" style={{margin:'2px'}} href="http://www.linkedin.com/in/"><i className="fa fa-linkedin"></i></a>
-                <a className="btn btn-xs btn-social-icon btn-twitter" style={{margin:'2px'}} href="http://twitter.com/"><i className="fa fa-twitter"></i></a>
-                <a className="btn btn-xs btn-social-icon btn-github" style={{margin:'2px'}} href="http://twitter.com/"><i className="fa fa-github"></i></a>
-                <a className="btn btn-xs btn-social-icon btn-pinterest" style={{margin:'2px'}} href="http://twitter.com/"><i className="fa fa-envelope"></i></a>          
+                <a className="btn btn-xs btn-social-icon btn-linkedin" style={{margin:'2px'}} href="https://www.linkedin.com/in/divyaakula28/"><i className="fa fa-linkedin"></i></a>
+                <a className="btn btn-xs btn-social-icon btn-twitter" style={{margin:'2px'}} href="https://twitter.com/DivyaAkula8"><i className="fa fa-twitter"></i></a>
+                <a className="btn btn-xs btn-social-icon btn-github" style={{margin:'2px'}} href="https://github.com/Divyaakula28/"><i className="fa fa-github"></i></a>
+                <a className="btn btn-xs btn-social-icon btn-pinterest" style={{margin:'2px'}} href="mailto:divya2000akula@gmail.com"><i className="fa fa-envelope"></i></a>          
                 </div>
                 </div>
             </Col>
