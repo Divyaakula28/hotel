@@ -9,7 +9,7 @@ function RenderDish({dish}) {
             return (
                 <div className='col-12 col-md-5 m-1' >
                     <Card style={{ width: '18rem' }}>
-                        <CardImg variant="top" width="50%" src='https://vaya.in/recipes/details/uthappam-recipe/' alt={dish.name} />
+                        <CardImg variant="top" width="100%" src={dish.image} alt={dish.name} />
                         <CardBody>
                             <CardTitle> {dish.name}</CardTitle>
                             <CardText> {dish.description} </CardText>
