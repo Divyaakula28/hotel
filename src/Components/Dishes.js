@@ -8,7 +8,7 @@ export const DISHES =
         {
         id: 0,
         name:'Uthappizza',
-        image:{uthappizza},
+        image:'./images/logo1.png',
         category: 'mains',
         label:'Hot',
         price:'4.99',
