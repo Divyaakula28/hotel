@@ -1,14 +1,14 @@
 import uthappizza from './images/logo1.png';
-import zucchipakoda from './images/zucchipakoda.png';
-import vadonut from './images/vadonut.png';
-import elaicheesecake from './images/elaicheesecake.png'
+import zucchipakoda from '../images/zucchipakoda.png';
+import vadonut from '../images/vadonut.png';
+import elaicheesecake from '../images/elaicheesecake.png'
 
 export const DISHES =
     [
         {
         id: 0,
         name:'Uthappizza',
-        image:'./images/logo1.png',
+        image:'../images/logo1.png',
         category: 'mains',
         label:'Hot',
         price:'4.99',
