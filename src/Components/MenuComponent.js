@@ -16,7 +16,7 @@ import { DISHES } from '../Components/Dishes';
                 <div>
                     <button onClick={(e) => setter(dish.id)}>
                     <Card>
-                        <CardImg variant="top" width="100%" src="https://vaya.in/recipes/wp-content/uploads/2018/02/Uthappam.jpg" alt={dish.name} />
+                        <CardImg><img  variant="top" width="100%" src="https://vaya.in/recipes/wp-content/uploads/2018/02/Uthappam.jpg" alt={dish.name} ></img></CardImg>
                         <CardBody>
                             <CardTitle className="font-weight-bold"> {dish.name}</CardTitle>
                             <CardText> {dish.description} </CardText>
