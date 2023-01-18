@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/hotel/static/css/main.482d125f.css",
-    "main.js": "/hotel/static/js/main.c2f561e5.js",
+    "main.js": "/hotel/static/js/main.d0b7ad89.js",
     "static/js/787.7ecd677f.chunk.js": "/hotel/static/js/787.7ecd677f.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/hotel/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/three.webp": "/hotel/static/media/three.4ccd3e3721a4c0f6d33a.webp",
+    "static/media/one.jfif": "/hotel/static/media/one.1074eaad4fefe07eda84.jfif",
     "static/media/fontawesome-webfont.eot": "/hotel/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/hotel/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/hotel/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/hotel/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/logo1.png": "/hotel/static/media/logo1.d84adcca7bfbd243da64.png",
-    "static/media/vadonut.png": "/hotel/static/media/vadonut.c5cd81441d6a6fb7bda6.png",
     "static/media/about.jfif": "/hotel/static/media/about.ec7cc8d4180f7d36a5c8.jfif",
     "static/media/two.jfif": "/hotel/static/media/two.4415753ffa50fdf7d21c.jfif",
     "index.html": "/hotel/index.html",
     "main.482d125f.css.map": "/hotel/static/css/main.482d125f.css.map",
-    "main.c2f561e5.js.map": "/hotel/static/js/main.c2f561e5.js.map",
+    "main.d0b7ad89.js.map": "/hotel/static/js/main.d0b7ad89.js.map",
     "787.7ecd677f.chunk.js.map": "/hotel/static/js/787.7ecd677f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.482d125f.css",
-    "static/js/main.c2f561e5.js"
+    "static/js/main.d0b7ad89.js"
   ]
 }
