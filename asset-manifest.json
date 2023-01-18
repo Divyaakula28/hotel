@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hotel/static/css/main.482d125f.css",
-    "main.js": "/hotel/static/js/main.06721d35.js",
+    "main.js": "/hotel/static/js/main.f17673b7.js",
     "static/js/787.7ecd677f.chunk.js": "/hotel/static/js/787.7ecd677f.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/hotel/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/three.webp": "/hotel/static/media/three.4ccd3e3721a4c0f6d33a.webp",
@@ -11,7 +11,6 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/hotel/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/hotel/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/logo1.png": "/hotel/static/media/logo1.d84adcca7bfbd243da64.png",
-    "static/media/uthappizza.png": "/hotel/static/media/uthappizza.e3b6414e4292e7f7802a.png",
     "static/media/zucchipakoda.png": "/hotel/static/media/zucchipakoda.57b1a046e46917644a54.png",
     "static/media/vadonut.png": "/hotel/static/media/vadonut.c5cd81441d6a6fb7bda6.png",
     "static/media/elaicheesecake.png": "/hotel/static/media/elaicheesecake.79bcea396a9726301c23.png",
@@ -20,11 +19,11 @@
     "static/media/logo.svg": "/hotel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hotel/index.html",
     "main.482d125f.css.map": "/hotel/static/css/main.482d125f.css.map",
-    "main.06721d35.js.map": "/hotel/static/js/main.06721d35.js.map",
+    "main.f17673b7.js.map": "/hotel/static/js/main.f17673b7.js.map",
     "787.7ecd677f.chunk.js.map": "/hotel/static/js/787.7ecd677f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.482d125f.css",
-    "static/js/main.06721d35.js"
+    "static/js/main.f17673b7.js"
   ]
 }
