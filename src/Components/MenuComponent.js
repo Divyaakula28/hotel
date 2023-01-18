@@ -45,6 +45,11 @@ import Card from 'react-bootstrap/Card';
                   </div>
                   );
             }
+            else{
+                return(
+                    <div></div>
+                )
+            }
             
         });
         return(

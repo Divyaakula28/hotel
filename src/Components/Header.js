@@ -25,7 +25,7 @@ class Header extends Component{
                     <div className="container">
                       
                     <NavbarToggler onClick={this.toggleNav} style={{color:'white'}} />
-                    <a className="navbar-brand mr-auto" href="#"><img src={logo} height="30" width="41"/></a>
+                    <a className="navbar-brand mr-auto" href="https://divyaakula28.github.io/hotel/"><img src={logo} height="30" width="41" alt='logo'/></a>
                     <Collapse isOpen={this.state.isNavOpen} navbar>
                             <Nav navbar>
                             <NavItem>
