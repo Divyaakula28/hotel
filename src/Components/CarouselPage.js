@@ -1,5 +1,5 @@
 import React from "react";
-import one from './images/vadonut.png'
+import one from './images/one.jfif'
 import two from './images/two.jfif'
 import three from './images/three.webp'
 import Carousel from 'react-bootstrap/Carousel';

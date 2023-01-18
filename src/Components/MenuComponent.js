@@ -1,6 +1,6 @@
 import React, {useState } from "react";
-import { Card, CardImg, CardImgOverlay, CardText, CardBody, CardTitle  } from "reactstrap";
 import { DISHES } from '../Components/Dishes';
+import Card from 'react-bootstrap/Card';
 
 
     function Menu({props}){
@@ -16,11 +16,11 @@ import { DISHES } from '../Components/Dishes';
                 <div>
                     <button onClick={(e) => setter(dish.id)}>
                     <Card>
-                        <CardImg variant="top" width="100%" src='./images/vadonut.png' alt={dish.name} />
-                        <CardBody>
-                            <CardTitle className="font-weight-bold"> {dish.name}</CardTitle>
-                            <CardText> {dish.description} </CardText>
-                        </CardBody>
+                        <Card.Img top width="100%" src={dish.image} alt={dish.name} />
+                        <Card.Body>
+                            <Card.Title className="font-weight-bold"> {dish.name}</Card.Title>
+                            <Card.Text> {dish.description} </Card.Text>
+                        </Card.Body>
                     </Card>
                     </button>
                 </div> 
@@ -34,11 +34,11 @@ import { DISHES } from '../Components/Dishes';
                       <div>
                           <button onClick={(e) => setter(null)} style={{width:'100%'}}> 
                           <Card>
-                              <CardImg variant="top" width="100%" src={dish.image} alt={dish.name} />
-                              <CardBody>
-                                  <CardTitle className="font-weight-bold"> {dish.name}</CardTitle>
-                                  <CardText> {dish.description} </CardText>
-                              </CardBody>
+                              <Card.Img variant="top" width="100%" src={dish.image} alt={dish.name} />
+                              <Card.Body>
+                                  <Card.Title className="font-weight-bold"> {dish.name}</Card.Title>
+                                  <Card.Text> {dish.description} </Card.Text>
+                              </Card.Body>
                           </Card>
                           </button>
                       </div> 

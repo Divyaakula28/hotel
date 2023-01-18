@@ -140,7 +140,7 @@ export const DISHES =
         {
         id: 3,
         name:'ElaiCheese Cake',
-        image: '../assets/images/elaicheesecake.png',
+        image: './images/elaicheesecake.png',
         category: 'dessert',
         label:'',
         price:'2.99',
