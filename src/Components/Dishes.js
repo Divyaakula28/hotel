@@ -1,9 +1,14 @@
+import uthappizza from './images/uthappizza.png';
+import zucchipakoda from './images/zucchipakoda.png';
+import vadonut from './images/vadonut.png';
+import elaicheesecake from './images/elaicheesecake.png'
+
 export const DISHES =
     [
         {
         id: 0,
         name:'Uthappizza',
-        image: './images/uthappizza.png',
+        image:{uthappizza},
         category: 'mains',
         label:'Hot',
         price:'4.99',
@@ -48,7 +53,7 @@ export const DISHES =
         {
         id: 1,
         name:'Zucchipakoda',
-        image: './images/zucchipakoda.png',
+        image:{zucchipakoda} ,
         category: 'appetizer',
         label:'',
         price:'1.99',
@@ -94,7 +99,7 @@ export const DISHES =
         {
         id: 2,
         name:'Vadonut',
-        image: './images/vadonut.png',
+        image:{vadonut} ,
         category: 'appetizer',
         label:'New',
         price:'1.99',
@@ -140,7 +145,7 @@ export const DISHES =
         {
         id: 3,
         name:'ElaiCheese Cake',
-        image: '../assets/images/elaicheesecake.png',
+        image:{elaicheesecake},
         category: 'dessert',
         label:'',
         price:'2.99',
