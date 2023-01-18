@@ -1,4 +1,4 @@
-import uthappizza from './images/uthappizza.png';
+import uthappizza from './images/logo1.png';
 import zucchipakoda from './images/zucchipakoda.png';
 import vadonut from './images/vadonut.png';
 import elaicheesecake from './images/elaicheesecake.png'
