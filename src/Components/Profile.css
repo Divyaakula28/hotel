@@ -1,0 +1,45 @@
+.colstyle{
+    margin-left: 5%;
+    text-align: center;
+       
+}
+
+.about{
+    font-size: large;
+}
+.colstyle1{
+    border: solid 2px #ADD8E6;
+    border-radius: 10px; 
+    padding-top: 10px;
+}
+
+.colstyle2{
+    border:solid 2px  #ADD8E6;
+    margin-left: 2%;
+    border-radius: 5%;
+}
+ul{
+    font-size: medium;
+
+}
+.iconstyle{
+    color:black;
+    margin:2px;
+    margin-bottom: 5%;
+}
+
+.centering{
+    text-align: center;
+}
+.details{
+    font-size: medium;
+    margin-left: 10%;
+}
+@media only screen and (max-width: 992px) {
+    .colstyle{
+        margin-left: 0%;
+        text-align: center;
+           
+    }
+
+  }

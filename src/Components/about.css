@@ -1,0 +1,30 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size:50px;
+    font-weight: 900;
+    text-decoration: underline wavy;  
+    text-decoration-color: cyan;  
+    
+  }
+  .entireRow{
+    padding: 5%;
+    text-align: center;
+    background-color: rgb(141, 195, 229);
+
+  }
+  .bckimg{
+    filter: blur(3px);
+  }
+  .subhead{
+    color:white;
+    font-size: 75px;
+  }
+  .subtext{
+    text-align: left;
+    color:white;
+    font-size: x-large;
+  }
