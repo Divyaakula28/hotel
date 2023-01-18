@@ -16,7 +16,7 @@ import { DISHES } from '../Components/Dishes';
                 <div>
                     <button onClick={(e) => setter(dish.id)}>
                     <Card>
-                        <CardImg variant="top" width="100%" src={dish.image} alt={dish.name} />
+                        <CardImg variant="top" width="100%" src='./images/vadonut.png' alt={dish.name} />
                         <CardBody>
                             <CardTitle className="font-weight-bold"> {dish.name}</CardTitle>
                             <CardText> {dish.description} </CardText>
