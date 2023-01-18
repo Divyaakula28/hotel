@@ -8,7 +8,7 @@ export const DISHES =
         {
         id: 0,
         name:'Uthappizza',
-        image:'https://vaya.in/recipes/wp-content/uploads/2018/02/Uthappam.jpg',
+        image:{uthappizza},
         category: 'mains',
         label:'Hot',
         price:'4.99',
